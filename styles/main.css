@@ -351,7 +351,6 @@ a {
         font-size: 32px;
     }
     .wrapper2 {
-        margin-bottom: 250px;
         width: 100%;
     }
     .button {
@@ -374,7 +373,7 @@ a {
     }
     .card {
         width: 354px;
-        height: 266px;
+        height: auto;
     }
     .wrapper3 {
         display: flex;
