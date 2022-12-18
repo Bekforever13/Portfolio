@@ -363,15 +363,14 @@ a {
         text-align: center;
         padding: 1rem;
     }
-    .card {
-        margin-top: 0;
-    }
+    
     .recent__post{
         display: flex;
         flex-direction: column;
         justify-content: center;
     }
     .card {
+        margin-top: 0;
         width: 354px;
         height: auto;
     }
